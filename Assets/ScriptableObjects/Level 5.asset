@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e293382d0375ba848848fdbc8000a288, type: 3}
+  m_Name: Level 5
+  m_EditorClassIdentifier: 
+  level: 5
+  EnemyLength: 0000000001000000020000000300000004000000050000000600000007000000
+  EnemySpeed: 10
+  EnemyGetFaster: 15
+  EnemyRange: 50
+  DestroyWall: 000000000100000002000000060000000700000008000000040000000a000000
